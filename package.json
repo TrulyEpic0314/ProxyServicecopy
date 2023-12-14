@@ -1,14 +1,14 @@
 {
   "name": "ProxyService",
   "version": "1.0.0",
-  "description": "A controller for proxying requests created for use with HttpService in Roblox.",
+  "description": "A copy of the controller for proxying requests created for use with HttpService in Roblox.",
   "main": "server.js",
   "dependencies": {
     "http-proxy": "^1.18.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sentanos/ProxyService.git"
+    "url": "https://github.com/TrulyEpic0314/ProxyServicecopy.git"
   },
   "devDependencies": {},
   "scripts": {
